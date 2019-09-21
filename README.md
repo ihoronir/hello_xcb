@@ -1,6 +1,6 @@
 https://www.x.org/releases/X11R7.7/doc/libxcb/tutorial/index.html
 
 ```bash
-$ bulid.sh
+$ ./bulid.sh
 $ ./prog
 ```

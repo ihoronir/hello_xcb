@@ -1,1 +1,1 @@
-g++ -Wall hello_xlib.cpp -o prog `pkg-config --cflags --libs xcb`
+g++ -Wall hello_xcb.cpp -o prog `pkg-config --cflags --libs xcb`
